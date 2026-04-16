@@ -1,0 +1,15 @@
+ol{
+            font: 1em sans-serif;
+            text-align: center;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, Courier, monospace;
+            font-size: 18px;
+            font-weight: bold;
+                        
+            
+}
+body{
+            text-align: center;
+            background-image: linear-gradient(90deg,rgb(111, 0, 255), red, indigo, blue);
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            
+}
